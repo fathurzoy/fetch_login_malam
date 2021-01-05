@@ -1,0 +1,100 @@
+{
+  "users": [
+    {
+      "email": "fathurrahmanf123@gmail.com",
+      "password": "$2a$10$ntMne3Lw98T6nZH28yRgkOCX.35uCOB56CsB7bCXDUDSH96y1jdUm",
+      "id": 1
+    },
+    {
+      "email": "jaja@gmail.com",
+      "password": "$2a$10$Y7diZGpLtF9yPytSI96e6O9n3uXugu6Fk/ZaKBvoxJL4wUFAFeJla",
+      "password2": "jaja",
+      "id": 2
+    },
+    {
+      "email": "asd@gmail.com",
+      "password": "$2a$10$UTlBhD2DGNOJEE5VKEtH0Oi92y8kjt2W/IXxXKsH7inzSy1if60TC",
+      "id": 3
+    },
+    {
+      "email": "okok@gmail.com",
+      "password": "$2a$10$jGhO.a3Ij2isT3mFPTZOi.3VrXBSBPhDTWPDuFEmaJtKfLBlBv2Ei",
+      "id": 4
+    },
+    {
+      "email": "fafa@gmail.com",
+      "password": "$2a$10$iJKp0ZhCJ3XU9iv.fmPjfOcEblndba7fRvnrDm7bBATVwmwBThbt.",
+      "id": 5
+    },
+    {
+      "email": "zozo@gmail.com",
+      "password": "$2a$10$QkqYum8ynPWyU4MsZ7sD4.YLfNCB202RRTP3kAUrRiws294RX6fyy",
+      "id": 6
+    },
+    {
+      "email": "lolo@gmail.com",
+      "password": "$2a$10$W3Et.qujJLjyI5f1eVJkYOtk13TqPBw6ejizX8aRg8TOi8gdEgLye",
+      "id": 7
+    }
+  ],
+  "notes": [
+    {
+      "id": 1,
+      "user_email": "zozo@gmail.com",
+      "title": "ini semua title",
+      "body": "ini adalah note pertama saaya.."
+    },
+    {
+      "id": 2,
+      "user_email": "zozo@gmail.com",
+      "title": "ini semua title",
+      "body": "ini adalah note kedua saaya.."
+    },
+    {
+      "id": 3,
+      "user_email": "popo@gmail.com",
+      "title": "ini semua title",
+      "body": "Cok apa lu.."
+    },
+    {
+      "id": 4,
+      "user_email": "jojo@gmail.com",
+      "title": "ini semua title",
+      "body": "oyoyoy.."
+    },
+    {
+      "id": 5,
+      "user_email": "wowo@gmail.com",
+      "title": "ini semua title",
+      "body": "Broooo. kampret"
+    },
+    {
+      "user_email": "fathurrahmanf123@gmail.com",
+      "title": "ini semua title",
+      "body": "Om Apa Lu",
+      "id": 6
+    },
+    {
+      "id": 7,
+      "title": "asdasdsad;asd",
+      "body": "asdsadasdasd"
+    },
+    {
+      "id": 9,
+      "title": "adsad",
+      "body": "adasd"
+    },
+    {
+      "user_email": "jaja@gmail.com",
+      "title": "OTOYOYsdasdasd",
+      "body": "asdYOOYasdassvmnlvasd\n",
+      "id": 10
+    },
+    {
+      "user_email": "jaja@gmail.com",
+      "title": "sadal;laskd",
+      "body": "<h1>sdasda</h1>",
+      "id": 11
+    }
+  ]
+}

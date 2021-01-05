@@ -1,0 +1,52 @@
+
+.navbar{
+  width: 100vw;
+  height: 10vh;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 0 8%;
+  background-color: rgb(255, 240, 212);
+}
+
+.brand{
+  font-weight: 200;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+
+.user_area{
+  margin-left: auto;
+  display: flex;
+  gap: 8px;
+  cursor: pointer;
+}
+
+.modal_menu{
+  width: 100px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+  position: absolute;
+  top: 11vh;
+  right: 8%;
+}
+
+.btn_logout{
+  padding: 5px 10px;
+  border: none;
+  outline: none;
+  background-color: orangered;
+  color: white;
+  border-radius: 4px;
+  display: flex;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.btn_logout:hover{
+  background-color: rgb(156, 0, 0);
+}
